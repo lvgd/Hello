@@ -1,6 +1,7 @@
 # HelloJ!
-10/04/2021
 
-Goodbye! 02/10/2021
+Hello! 10/04
 
-bye 08/11/2021
+Goodbye! 02/10
+
+Farewell! 08/11
