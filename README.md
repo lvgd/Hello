@@ -1,5 +1,5 @@
 # HelloJ!
 
-goodbye! 02/10
+goodbye!
 
 maybe farewell
