@@ -1,5 +1,3 @@
 # HelloJ!
 
-goodbye!
-
-maybe farewell
+None
